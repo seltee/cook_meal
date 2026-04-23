@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876091263115",
+    "project_id": "cook-meal-f57ed",
+    "storage_bucket": "cook-meal-f57ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876091263115:android:2a9feef7dd18425d582c8e",
+        "android_client_info": {
+          "package_name": "com.example.cook_meal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAuferUoYVwhxFhQ1NbkXtC0c_rCdwV2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
